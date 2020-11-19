@@ -1,0 +1,55 @@
+body{
+    background-color: lightblue;
+}
+li {
+    margin: 8px 0px;
+}
+h2 {
+    padding-top: 10px;
+    padding-left: 30px;
+}
+h3 {
+    margin-left: 47px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+h4 {
+    margin-left: 15px;
+    margin-top: 200px;
+}
+h5 {
+    margin-left: 47px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+iframe {
+    margin-left: 65px;
+    margin-top: 10px;
+}
+.text {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 60px;
+    padding-right: 200px;
+    margin-top: 0%;
+    font-size: 18px;
+    font-weight: 400;
+}
+#Freyr {
+    display: block;
+    float: right;
+    margin: 50px;
+    width: 125px;
+    height: 250px;
+}
+#Title {
+    background-color: navajowhite;
+    border-radius: 7px;
+    padding: 20px;
+    margin: 10px;
+    padding-left: 100px;
+}
+#Photo1 {
+    margin-left: 60px;
+    margin-right: 30px;
+}
